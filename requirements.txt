@@ -1,0 +1,7 @@
+# first list the packages you wish to download from PyPI
+teachbooks # depends on jupyter-book v1
+
+# A minimal subset of extensions from https://github.com/TeachBooks/TeachBooks-Favourites
+git+https://github.com/TeachBooks/sphinx-named-colors
+git+https://github.com/TeachBooks/Sphinx-Metadata-Figure
+git+https://github.com/TeachBooks/sphinx-external-toc
