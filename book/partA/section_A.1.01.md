@@ -24,4 +24,5 @@ The journey from casual inquiry to systematic research is not about learning ent
 If you have criticism or advice after reading this section, please [share them with us](https://maastrichteducation.qualtrics.com/jfe/form/SV_1F97hKQXH0hamua?loc=Section%20A.1.1). All feedback is collected anonymously and is shared with the authors confidentially.
 ```
 
-{bibliography}
+```{bibliography}
+```
