@@ -4,6 +4,11 @@ format: jb-book
 root: intro.md
 
 parts:
+  - caption: Foundations
+    chapters:
+    - file: partA/chapter_A.1.md
+      sections:
+      - file: partA/section_A.1.01.md
   - caption: Back matter
     chapters:
     - file: references.md
