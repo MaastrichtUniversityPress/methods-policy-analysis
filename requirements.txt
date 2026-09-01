@@ -5,3 +5,4 @@ teachbooks # depends on jupyter-book v1
 git+https://github.com/TeachBooks/sphinx-named-colors
 git+https://github.com/TeachBooks/Sphinx-Metadata-Figure
 git+https://github.com/TeachBooks/sphinx-external-toc
+git+https://github.com/TeachBooks/sphinx-apa-references

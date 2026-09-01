@@ -11,5 +11,5 @@ We have chosen to offer this open-access textbook in full recognition that we ca
 
 We hope that this textbook offers something of value to you – and that you will let us know where we can do better or dive deeper.
 
-Welcome, dear reader! Thank you for visiting this source!<br/>
+Welcome, dear reader! Thank you for visiting this source!<br>
 --- Lutz F. Krebs, editor
