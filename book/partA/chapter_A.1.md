@@ -78,6 +78,8 @@ The stakes are real. Surinder Sindhu and millions like him deserve policies base
 
 The need is urgent. Let us equip ourselves with the necessary skills.
 
-https://maastrichteducation.qualtrics.com/jfe/form/SV_1F97hKQXH0hamua?loc=Chapter%20A.1
+```{tip} Your feedback is welcome!
+If you have criticism or advice after reading this chapter, please [share them with us](https://maastrichteducation.qualtrics.com/jfe/form/SV_1F97hKQXH0hamua?loc=Chapter%20A.1). All feedback is collected anonymously and is shared with the authors confidentially.
+```
 
 {bibliography}
