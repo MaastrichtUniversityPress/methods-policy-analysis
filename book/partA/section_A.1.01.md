@@ -20,4 +20,8 @@ This chapter will help you understand what transforms everyday inquiry into cred
 
 The journey from casual inquiry to systematic research is not about learning entirely new ways of thinking. It is about building on skills you already possess, sharpening them, and learning to apply them with the rigor and transparency that policy research requires.
 
+::::{admonition} Your feedback is welcome!
+If you have criticism or advice after reading this section, please [share them with us](https://maastrichteducation.qualtrics.com/jfe/form/SV_1F97hKQXH0hamua?loc=Section%20A.1.1). All feedback is collected anonymously and is shared with the authors confidentially.
+::::
+
 {bibliography}
