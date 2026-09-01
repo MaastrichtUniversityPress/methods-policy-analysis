@@ -1,5 +1,10 @@
 ## What is research?
 
+<audio controls preload="none">
+  <source src="../_audio/A.1.01.mp3" type="audio/mpeg">
+  Your browser does not support the audio element; <a href="../_audio/A.1.01.mp3">download the recording</a> instead if you would like to listen to this section.
+</audio>
+
 You make decisions every day. Some are small: how to get to work? What to eat for lunch? Others are significant, with consequences that ripple through your life for years. Think back to a recent major decision you faced. Perhaps it was: Which university program should I join? Should I accept this job offer or stay in my current position? Where should my family and I live? Is this healthcare provider the right choice for my elderly parent?
 
 Let's focus on one example that many of you have recently navigated: choosing a graduate program. You likely spent weeks or even months working through this decision. You did not simply pick a program at random or rely solely on a friend's casual recommendation. Instead, you engaged in a deliberate process. You identified programs that matched your interests and career goals. You examined course content, comparing curricula across institutions. You considered practical factors: tuition fees, living costs, location, program duration. You sought out information from current students and alumni about their experiences. You researched career outcomes: where do graduates work? What roles do they fill? What opportunities become available with this qualification? You might have consulted university rankings, though perhaps with some skepticism about what they actually measure. You weighed all this information, considering how different factors mattered to you personally. Some of you may have created spreadsheets, lists of pros and cons, or mental frameworks to organize your thinking.
